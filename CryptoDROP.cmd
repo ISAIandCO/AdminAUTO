@@ -1,8 +1,8 @@
 @echo off
-chcp 1251
-CLS
 ECHO ISAIcorp
 ECHO.
+chcp 1251
+CLS
 
 ECHO CryptoDROP
 ECHO ------------------------------------------------------------------------------
